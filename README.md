@@ -12,8 +12,8 @@ GitHub: BMFuadHasan
 
 <!-- ✅ BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prottoybiswas01&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/prottoybiswas01?label=Followers&style=for-the-badge&logo=github&color=111827" />
+  <img src="https://komarev.com/ghpvc/?username=BMFuadHasan&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/BMFuadHasan?label=Followers&style=for-the-badge&logo=github&color=111827" />
   <img src="https://img.shields.io/badge/Location-Khulna%2C%20Bangladesh-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Django%20%26%20Web%20Development%20%26%20Graphics%20Design-9333ea?style=for-the-badge" />
 </p>
