@@ -7,7 +7,7 @@ GitHub: BMFuadHasan
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,100:9333ea&text=Fuad%20Hasan&fontSize=52&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Django%20Developer%20%7C%20Graphics%20Designer&descAlignY=65&animation=fadeIn" />
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fuad+Hasan;Full+Stack+Developer+%F0%9F%92%BB;Django%20Developer%20%7C%20Graphics%20Designer+%F0%9F%8E%A8;+Modern+Web+Experiences+%F0%9F%9A%80&center=true&size=28&color=38BDF8&font=Fira+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Fuad+Hasan;Full+Stack+Developer+%F0%9F%92%BB;Django%20Developer%20%7C%20Graphics%20Designer&center=true&size=28&color=38BDF8&font=Fira+Code" />
 </h2>
 
 <!-- ✅ BADGES -->
